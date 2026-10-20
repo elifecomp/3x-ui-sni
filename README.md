@@ -14,9 +14,5 @@
 
 Просто выполни одну команду в терминале своего сервера:
 
-\`\`\`bash
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/elifecomp/3x-ui-sni/main/setup.sh](https://raw.githubusercontent.com/elifecomp/3x-ui-sni/main/setup.sh))
-
-\`\`\`
-
+bash <(curl -Ls https://raw.githubusercontent.com/elifecomp/3x-ui-sni/main/setup.sh)
